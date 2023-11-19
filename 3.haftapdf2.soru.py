@@ -10,4 +10,4 @@ for i in range(4):
     print("{}.İterasyon degeri :".format(i + 1))
     print("x'in degeri : {}".format(x1))
     print("f(x)'in degeri : {:.15f}".format(f(x1)))
-    print(
+    print()
